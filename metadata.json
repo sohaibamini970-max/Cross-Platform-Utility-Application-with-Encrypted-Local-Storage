@@ -1,0 +1,6 @@
+{
+  "name": "SecureVault",
+  "description": "Personal Records Manager with encrypted local database storage, category organization, search, attachments, and offline privacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
